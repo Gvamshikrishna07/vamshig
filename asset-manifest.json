@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vamshig/static/css/main.35963026.css",
+    "main.js": "/vamshig/static/js/main.74ed765c.js",
+    "static/js/453.1b6cbde4.chunk.js": "/vamshig/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/vamshig/index.html",
+    "main.35963026.css.map": "/vamshig/static/css/main.35963026.css.map",
+    "main.74ed765c.js.map": "/vamshig/static/js/main.74ed765c.js.map",
+    "453.1b6cbde4.chunk.js.map": "/vamshig/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35963026.css",
+    "static/js/main.74ed765c.js"
+  ]
+}
